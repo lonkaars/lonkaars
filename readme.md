@@ -6,3 +6,5 @@ about me:
 - "good" at js/ts/python
 - uppercase letters suck
 - lazy
+- i eat my vegetables
+- i go to school
