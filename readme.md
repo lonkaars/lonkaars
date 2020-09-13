@@ -1,10 +1,11 @@
 hi there!
 
 about me:
-- working on cinquo, a blog and some personal projects
+- working on cinquo but mostly personal projects
 - learning c++
-- "good" at js/ts/python
+- can js/ts/python
+- also html/css/tex/md/vim though those aren't "real" programming languages
 - uppercase letters suck
 - lazy
-- i eat my vegetables
+- i eat my veggies
 - i go to school
