@@ -1,9 +1,11 @@
 hi there!
 
 about me:
-- working on cinquo but mostly personal projects
+- cinquo is kinda stalled rn
+- working on some personal projects (might go public)
 - learning c++
-- can nodejs/client js/ts/python
+- can js/ts/python/dart
+- little bit java/sql too
 - also html/css/tex/md/vim though those aren't "real" programming languages
 - uppercase letters suck
 - lazy
