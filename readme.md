@@ -1,11 +1,8 @@
 hi there!
 
 about me:
-- cinquo is kinda stalled rn
-- working on some personal projects (might go public)
-- learning c++
-- can js/ts/python/dart
-- little bit java/sql too
+- can js/ts/python/dart/c++
+- sprinkle on java/sql to taste
 - also html/css/tex/md/vim though those aren't "real" programming languages
 - uppercase letters suck
 - lazy
